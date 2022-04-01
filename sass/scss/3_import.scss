@@ -1,0 +1,13 @@
+@import "colors";
+
+body{
+    background-color: $color1;
+    color: $color2;
+    h1{
+        color: $color3;
+    }
+}
+
+/*
+    sass scss/3_import.scss css/3_import.css
+*/

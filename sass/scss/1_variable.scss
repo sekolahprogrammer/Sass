@@ -1,0 +1,11 @@
+$bg-color: white;
+$fontColor: black;
+
+body{
+    background-color: $bg-color;
+    color: $fontColor;
+}
+
+/*
+    sass scss/1_variable.scss css/1_variable.css
+*/

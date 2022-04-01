@@ -1,0 +1,19 @@
+.h1{
+    color: rgb(255, 0, 0);
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.h2{
+    @extend .h1;
+    background-color: rgb(0, 0, 0);
+}
+
+.h3{
+    @extend .h1;
+    background-color: yellow;
+}
+
+/*
+    sass scss/5_extend.scss css/5_extend.css
+*/

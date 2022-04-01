@@ -1,0 +1,12 @@
+@mixin important-color{
+    color: rgb(0, 255, 242);
+}
+
+h1{
+    @include important-color;
+    background-color: white;
+}
+
+/*
+    sass scss/4_mixin.scss css/4_mixin.css
+*/

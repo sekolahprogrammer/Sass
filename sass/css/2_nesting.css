@@ -1,0 +1,11 @@
+nav ul {
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=2_nesting.css.map */

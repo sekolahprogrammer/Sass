@@ -1,0 +1,15 @@
+nav{
+    ul{
+        list-style: none;
+    }
+    li{
+        display: inline-block;
+    }
+    a{
+        text-decoration: none;
+    }
+}
+
+/*
+    sass scss/2_nesting.scss css/2_nesting.css
+*/
